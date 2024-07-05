@@ -7,7 +7,9 @@
 
 ***Bold plus Italic***
 
-~~Strike Through~~  
+~~Strike Through~~ 
+
+***My favourite hobby Anime***
 
 [Link to find anime recommendations](https://myanimelist.net/)
 
